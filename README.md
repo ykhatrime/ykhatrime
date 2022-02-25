@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ykhatrime
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science 
+- 💞️ I’m looking to collaborate on Data Science  Projects
 - 📫 How to reach me ykhatrime
 
 <!---
